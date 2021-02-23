@@ -1,4 +1,4 @@
-# Modelling-Radiactive-decay-and-Increase-in-population
+# Modelling Radiactive decay/Increase in population and RLC cricuit
 The Radioactive decay/Increase in Population and RLC cirucit problems can be expressed by differential equations. The equation for radioactive decay/Increase in Poputlation can be given by
 
 <img src="https://render.githubusercontent.com/render/math?math=\frac{dN}{dt} = kN ">.
