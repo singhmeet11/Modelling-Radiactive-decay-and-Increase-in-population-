@@ -9,3 +9,7 @@ where N is the population at some particular time t. The equation for an RLC cir
 
 <img src="https://render.githubusercontent.com/render/math?math=\frac{dQ}{dt} = I">.
 
+## Laplace transform to solve differential equations
+Laplce tranform is defined as 
+
+<img src="https://render.githubusercontent.com/render/math?math=F(s) = \int_0^{+\infty} f(t) e^{-st} \dt ">.
