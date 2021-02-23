@@ -30,7 +30,6 @@ by equating the above two equations we get the value of **L(y)** on which we can
 **We will be using this method to solve equations inside of MATLAB**
 
 ## Tools used inside of MATLAB
-We have used symbolic math toolbox 
 #### Symbolic Tool Box : 
 Mathematical equations can be found everywhere in real world from simple pendulums to heat flow equations. They require a lot of algebra, calculus and differential equations. Solving them using hand can be tedious work and that is where MATLAB comes in. But even in MATLAB, we need different tool box's for easier and better use. Symbolic math tool box helps a great deal.It can be used to solve equations(ordinary differential  and algebraic) perform differentiation, integration, simplification, transforms.
 
